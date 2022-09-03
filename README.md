@@ -22,7 +22,7 @@ I am always motivated to participate in the contribution of any project!
 I'm always open for work 👍
 
 
-## Furrany Studio
+## [Furrany Studio](https://furranystudio.fr)
 
 An Independent Game Development Studio.
 
