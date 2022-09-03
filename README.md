@@ -36,6 +36,15 @@ A small collective wanting to create and tell interesting stories, a story told 
 
 [Visit Website](https://furranystudio.fr)
 
+## Social network
+
+- [LinkedIn](https://www.linkedin.com/in/maxime-sanchez-98837015a/)
+- [Ko-Fi](https://ko-fi.com/maxime66410)
+- [Gumroad](https://furranystudio.gumroad.com)
+- [Twitter](https://twitter.com/Maxime66410)
+
+
+
 <!--
 **Maxime66410/Maxime66410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
