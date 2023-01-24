@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxime66410&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maxime66410"/>
+
 
 ## About me
 
@@ -20,6 +22,10 @@ I am currently a student at [Cime Art](https://www.cime-art.com) in [Béziers](h
 I am always motivated to participate in the contribution of any project!
 
 I'm always open for work 👍
+
+### EDI Used
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/><img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/><img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 
 ## [Furrany Studio](https://furranystudio.fr)
