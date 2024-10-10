@@ -50,12 +50,6 @@ A small collective wanting to create and tell interesting stories, a story told 
 
 [Visit Website](https://furranystudio.fr)
 
-## [VRCPicture](https://vrcpicture.com)
-
-VRChat photo sharing website !
-
-[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/ht1j.svg)](https://betteruptime.com/?utm_source=status_badge)
-
 ## Social network
 
 - [LinkedIn](https://www.linkedin.com/in/maxime-sanchez-98837015a/)
