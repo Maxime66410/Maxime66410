@@ -1,6 +1,6 @@
 # Maxime66410 - Welcome to my Github profile !
 
-### Indie Game and Open Source Developer 🖥🎮.
+### Indie Game Dev and Open Source Developer 🖥🎮.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxime66410&show_icons=true&theme=blue-green)
 
