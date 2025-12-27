@@ -13,7 +13,9 @@
 
 I'm a Game indie French (🇫🇷) developer and I'm 25 years old.
 
-I'm currently a student at [Cime Art](https://www.cime-art.com) in [Béziers](https://www.ville-beziers.fr) as a specialized video game developer [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US) (4 & 5).
+I'm currently a student at [Cime Art](https://www.studiomercier.com) in [Béziers](https://www.ville-beziers.fr) as a specialized video game developer [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US) (4 & 5).
+
+🎮 Diploma obtained : [Bachelor Game Dev](https://www.studiomercier.com) specialized Gameplay & Network
 
 🖥 Diploma obtained : [BTS Digital systems option A computing and networks (BTS SN IR)](https://www.onisep.fr/Ressources/Univers-Formation/Formations/Post-bac/bts-systemes-numeriques-option-a-informatique-et-reseaux)
 
