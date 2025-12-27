@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a Game indie French (🇫🇷) developer and I'm 24 years old.
+I'm a Game indie French (🇫🇷) developer and I'm 25 years old.
 
 I'm currently a student at [Cime Art](https://www.cime-art.com) in [Béziers](https://www.ville-beziers.fr) as a specialized video game developer [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US) (4 & 5).
 
